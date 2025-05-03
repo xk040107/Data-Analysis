@@ -1,0 +1,15 @@
+Dataset Description:
+
+Date : Website defacement date 
+Notify: Incident reported by a person / group
+URL: URL of the defaced website.
+IP: IP address of the server that was compromised
+Country: Country where the server hosting the defaced website is located.
+OS: Operating system of the server hosting the defaced website.
+WebServer : Web server version used by the server hosting the defaced website.
+Encoding : The character encoding used in the defacement message
+Lang : Language of the defaced website.
+Ransom: Amount paid in Thousands.
+DownTime : Number of days when a system is unavailable.
+Loss: Revenue lost caused by attack.
+
